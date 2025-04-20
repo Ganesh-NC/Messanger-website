@@ -29,4 +29,4 @@ JavaScript – UI interactivity and dynamic elements
 🙌 Contributing
 Contributions are welcome! Feel free to fork the repo, raise issues, or submit PRs for improvements and features.
 
-View live webpage:https://ganesh-nc.github.io/Messanger-website/
+View live website:https://ganesh-nc.github.io/Messanger-website/
